@@ -1,0 +1,7 @@
+@echo off
+
+
+cmd
+
+
+exit
