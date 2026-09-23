@@ -1,0 +1,10 @@
+set "env_par_doc=Environment_Variable.txt"
+
+echo ========== Environment Factor ========== > "%env_par_doc%"
+echo Executed at %time% on %date% >> "%env_par_doc%"
+echo. >> "%env_par_doc%"
+echo. >> "%env_par_doc%"
+set >> "%env_par_doc%"
+echo. >> "%env_par_doc%"
+echo. >> "%env_par_doc%"
+echo ========== This is the end of this Document ========== >> "%env_par_doc%"
